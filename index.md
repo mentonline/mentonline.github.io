@@ -11,5 +11,7 @@ Have you always dreamt of being a teacher some day or have a unique skill that a
 ## Parents
 Do you want to help your kids learn a variety of skills/subjects right from the comfort of home, and at the same time engage them meaningfully? At MentOnline, we will have a variety of courses like Drawing, Pencil Sketching, Canvas Painting, Storytelling, Public Speaking, and a lot more. And, we are just getting started. We will update you via Email/WhatsApp as and when we have more courses in our catalogue, or you can check our website later.
 
-## Support or Contact
+## Contact
 You can reach us on contactmentonline -at- gmail -dot- com or WhatsApp us on https://wa.me/917093299208
+
+# [Register Now](https://forms.gle/tgyDPegc9YQWwpfx8)
