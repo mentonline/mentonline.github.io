@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# Welcome Mentor Online
 
-You can use the [editor on GitHub](https://github.com/mentonline/mentonline.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Mentonline provides a platform to bring teachers and students together. We are currently onboarding students and teachers, and building our course catalog. We will be starting soon. Our aim is to...
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. Provide teachers an opportunity to teach what they are passionate about and earn from the comfort of their home.
+2. Provide opportunities to parents to help their kids learn exciting new things and engage them meaningfully at home.
 
-### Markdown
+## Teachers
+Have you always dreamt of being a teacher some day or have a unique skill that a lot of people would love to learn from you? Or may be you already teach kids around and looking to reach more kids. You can now teach right from the comfort of your home. Be it Drawing, Storytelling, Art, Math, or just about anything you are passionate about! We are currently building our course catalogue for our Home Coaching platform MentOnline where we find students who'd love to learn from you.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Parents
+Do you want to help your kids learn a variety of skills/subjects right from the comfort of home, and at the same time engage them meaningfully? At MentOnline, we will have a variety of courses like Drawing, Pencil Sketching, Canvas Painting, Storytelling, Public Speaking, and a lot more. And, we are just getting started. We will update you via Email/WhatsApp as and when we have more courses in our catalogue, or you can check our website later.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mentonline/mentonline.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Support or Contact
+You can reach us on contactmentonline -at- gmail -dot- com or WhatsApp us on https://wa.me/917093299208
